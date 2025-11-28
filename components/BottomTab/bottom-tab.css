@@ -20,6 +20,9 @@
   color: #777;
   text-decoration: none;
 }
+.tab-item:hover {
+  color: #333;
+}
 
 .tab-item span {
   margin-top: 4px;
@@ -30,6 +33,3 @@
   color: #0066ff;
 }
 
-.tab-item:hover {
-  color: #333;
-}
